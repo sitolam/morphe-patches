@@ -1,3 +1,10 @@
+## [1.43.1](https://github.com/sitolam/morphe-patches/compare/v1.43.0...v1.43.1) (2026-09-02)
+
+
+### Bug Fixes
+
+* **MacroFactor:** disambiguate buildCustomerInfo fingerprint for 5.8.5 ([fd16238](https://github.com/sitolam/morphe-patches/commit/fd162389d1fe7c57341481a86b329e4f68c4aa5d))
+
 # [1.43.0](https://github.com/hoo-dles/morphe-patches/compare/v1.42.0...v1.43.0) (2026-08-30)
 
 
