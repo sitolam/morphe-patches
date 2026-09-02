@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-09-02T16:02:51",
-  "description": "## [1.43.1](https://github.com/sitolam/morphe-patches/compare/v1.43.0...v1.43.1) (2026-09-02)\n\n\n### Bug Fixes\n\n* **MacroFactor:** disambiguate buildCustomerInfo fingerprint for 5.8.5 ([fd16238](https://github.com/sitolam/morphe-patches/commit/fd162389d1fe7c57341481a86b329e4f68c4aa5d))",
-  "download_url": "https://github.com/sitolam/morphe-patches/releases/download/v1.43.1/patches-1.43.1.mpp",
-  "signature_download_url": "https://github.com/sitolam/morphe-patches/releases/download/v1.43.1/patches-1.43.1.mpp.asc",
-  "version": "1.43.1"
+  "created_at": "2026-09-02T18:58:02",
+  "description": "## [1.43.2](https://github.com/sitolam/morphe-patches/compare/v1.43.1...v1.43.2) (2026-09-02)\n\n\n### Bug Fixes\n\n* **MacroFactor:** stop spoofing shared Firebase signature-hash utility ([13c89d8](https://github.com/sitolam/morphe-patches/commit/13c89d8bd4fbafabf756e0e30bd42e0561b3e3ac))",
+  "download_url": "https://github.com/sitolam/morphe-patches/releases/download/v1.43.2/patches-1.43.2.mpp",
+  "signature_download_url": "https://github.com/sitolam/morphe-patches/releases/download/v1.43.2/patches-1.43.2.mpp.asc",
+  "version": "1.43.2"
 }

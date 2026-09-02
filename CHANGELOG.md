@@ -1,3 +1,10 @@
+## [1.43.2](https://github.com/sitolam/morphe-patches/compare/v1.43.1...v1.43.2) (2026-09-02)
+
+
+### Bug Fixes
+
+* **MacroFactor:** stop spoofing shared Firebase signature-hash utility ([13c89d8](https://github.com/sitolam/morphe-patches/commit/13c89d8bd4fbafabf756e0e30bd42e0561b3e3ac))
+
 ## [1.43.1](https://github.com/sitolam/morphe-patches/compare/v1.43.0...v1.43.1) (2026-09-02)
 
 
